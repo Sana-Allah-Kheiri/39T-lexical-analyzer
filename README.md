@@ -22,9 +22,12 @@ This lexical analyzer can identify 39 tokens that we have defined as our keyword
 -true
 -false
 -not
+
 🕑 Open .exe file and type your txt file name with .txt afterwards.
+
 🕒 Now you see which tokens are invalid(Error) and which are recognized as reserved key word!
 Please let me know what else can make this simple lexical analyzer more handy!
 sanaallahkheiri@gmail.com
-G
-Good
+Good Luck
+Sasan Ace
+
