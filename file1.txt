@@ -1,0 +1,21 @@
+program
+begin
+	var
+:
+;
+^^
+&*
+is
+int
+int
+int
+int
+int
+boolean x = false
+x = x + y ;
+if (x>y) then
+write (hello);
+else
+read(x);
+
+end

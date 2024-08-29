@@ -1,0 +1,14 @@
+program
+begin
+	var
+:
+;
+^^
+&*
+x = x + y ;
+if (x>y) then
+write (hello);
+else
+read(x);
+
+end
